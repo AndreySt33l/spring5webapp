@@ -9,7 +9,7 @@ public class Spring5webappApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Spring5webappApplication.class, args);
 		System.out.println("Welcome to your first Spring application");
-		System.out.println("Testing master Branch");
+		System.out.println("Testing first Branch");
 	}
 
 }
